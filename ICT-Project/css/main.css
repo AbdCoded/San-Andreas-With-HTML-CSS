@@ -1,0 +1,296 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../images/v4_75.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-size: 14px;
+}
+.v4_20 {
+  width: 100%;
+  height: 4809px;
+  
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_21 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  text-align: center;
+  top: 0px;
+  left: 246px;
+  font-family: rgb(218, 99, 99) Hat Text;
+  font-weight: Bold;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_23 {
+  width: 770px;
+  height: 321px;
+  background: url("../images/v4_23.png");
+  background-repeat: no-repeat;
+  background-position:center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative
+  overflow: hidden;
+  top: 105px;
+  left: 537px;
+  
+}
+.v4_26 {
+  width: 434px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 474px;
+  left: 13px;
+  font-family: Red Hat Text;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_27 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1151px;
+  left: 8px;
+  font-family: Red Hat Text;
+  
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_31 {
+  width: 323px;
+  height: 181px;
+  background: url("../images/v4_31.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1198px;
+  left: 281px;
+  overflow: hidden;
+}
+.v4_33 {
+  width: 281px;
+  height: 181px;
+  background: url("../images/v4_33.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1198px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_41 {
+  width: 281px;
+  height: 201px;
+  background: url("../images/v4_41.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1379px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_45 {
+  width: 323px;
+  height: 206px;
+  background: url("../images/v4_45.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1374px;
+  left: 281px;
+  overflow: hidden;
+}
+.v4_49 {
+  width: 337px;
+  height: 176px;
+  background: url("../images/v4_49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1198px;
+  left: 604px;
+  overflow: hidden;
+}
+.v4_51 {
+  width: 337px;
+  height: 206px;
+  background: url("../images/v4_51.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1374px;
+  left: 604px;
+  overflow: hidden;
+}
+.v4_52 {
+  width: 434px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1980px;
+  left: 27px;
+  font-family: Red Hat Text;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_54 {
+  width: 514px;
+  height: 468px;
+  background: url("../images/v4_54.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2117px;
+  left: 27px;
+  overflow: hidden;
+}
+.v4_56 {
+  width: 512px;
+  height: 468px;
+  background: url("../images/v4_56.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2117px;
+  left: 541px;
+  overflow: hidden;
+}
+.v4_57 {
+  width: 600px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2675px;
+  left: 27px;
+  font-family: Red Hat Text;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_59 {
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1538px;
+  left: 116px;
+  font-family: Red Hat Text;
+  background-color:rgb(214, 215, 231);
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-15deg);
+}
+.v4_63 {
+  width: 438px;
+  color: rgb(48, 128, 117);
+  background-color:rgb(233, 200, 109);
+  position: absolute;
+  top: 2732px;
+  left: 39px;
+  font-family: Red Hat Text;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_67 {
+  width: 696px;
+  color: red;
+  background-color:rgb(233, 200, 109);
+  position: absolute;
+  top: 3315px;
+  left: 39px;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_70 {
+  width: 763px;
+  color: rgb(23, 94, 107);
+  background-color:rgb(233, 200, 109);
+  position: absolute;
+  top: 3795px;
+  left: 27px;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_127 {
+  width: 429px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3267px;
+  left: 53px;
+  font-family: Red Hat Text;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_128 {
+  width: 754px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3737px;
+  left: 42px;
+  font-family: Red Hat Text;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_61 {
+  width: 941px;
+  color: rgb(69, 121, 39);
+  background-color:rgb(233, 200, 109);
+  position: absolute;
+  top: 1607px;
+  left: 19px;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_24 {
+  width: 100%;
+  color: rgb(32, 45, 165);
+  background-color:rgb(233, 200, 109);
+  position: absolute;
+  top: 525px;
+  left: 8px;
+  font-family: Red Hat Text;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
